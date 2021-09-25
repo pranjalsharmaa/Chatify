@@ -1,0 +1,19 @@
+#Chatify is a real-time, one-to-one Android chat application made using Firebase, a beautiful user interface, and a push-notification feature.
+android
+kotlin
+profile
+instagram
+firebase
+social-media
+facebook
+social-network
+messenger
+whatsapp
+notification
+firebase-auth
+chat-application
+realtime-messaging
+chatapp
+realtime-chat
+chatapps
+signup-screens
